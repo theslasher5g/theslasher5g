@@ -57,8 +57,8 @@ Hi, I'm theslasher5g — Cloud & Cybersecurity enthusiast working with Docker, L
 [![devplat.ch](https://img.shields.io/badge/devplat.ch-Selected%20Project-0f172a?style=for-the-badge&logo=docker&logoColor=white)](https://devplat.ch)
 
 <p align="center">
-<em>devplat.ch — meine Plattform/Projekt rund um Cloud & Dev-Infrastruktur.</em><br>
-<sub>(Kurzbeschreibung hier ergänzen: Stack, Zweck, Highlights)</sub>
+<em>devplat.ch — my platform for Cloud & Dev-Infratructure.</em><br>
+<sub>Deploy Easy new instances for application testing</sub>
 </p>
 
 ![](/assets/images/horizontal-divider-gradient.gif)
