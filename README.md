@@ -12,12 +12,6 @@
 <!--x axis divider-->
 ![](/assets/images/horizontal-divider-gradient.gif)
 
-<picture>
-<a href="https://github.com/theslasher5g.png" alt="Developer">
-<img src="https://images.weserv.nl/?url=https://github.com/theslasher5g.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
-</a>
-</picture>
-
 ```js
 "use creativity";
 import { Engineer } from "cloud-security";
