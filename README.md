@@ -3,7 +3,9 @@
 
 <div align="center">
 
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=%3C%20Cloud%20%26%20Cyber%20Security%20%2F%3E&fontSize=36&fontColor=ffffff&animation=fadeIn)](https://github.com/theslasher5g)
+# 🔒 Cloud & Cyber Security
+
+<sub><code>theslasher5g</code> · Docker · Linux · Python</sub>
 
 ![](https://komarev.com/ghpvc/?username=theslasher5g) ![Followers](https://img.shields.io/github/followers/theslasher5g?label=Followers) ![Stars](https://img.shields.io/github/stars/theslasher5g?label=Stars)
 
