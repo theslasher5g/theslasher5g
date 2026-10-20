@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 16" width="176" height="128" shape-rendering="crispEdges">
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -1; 0 0" dur="1.2s" repeatCount="indefinite"/>
+    <!-- Körper -->
+    <rect x="3" y="2" width="16" height="9" fill="#D97757"/>
+    <!-- Arme -->
+    <rect x="1" y="5" width="2" height="3" fill="#D97757"/>
+    <rect x="19" y="5" width="2" height="3" fill="#D97757"/>
+    <!-- Beine -->
+    <rect x="5" y="11" width="2" height="3" fill="#D97757"/>
+    <rect x="8" y="11" width="2" height="3" fill="#D97757"/>
+    <rect x="12" y="11" width="2" height="3" fill="#D97757"/>
+    <rect x="15" y="11" width="2" height="3" fill="#D97757"/>
+    <!-- Augen (blinzeln) -->
+    <rect x="6" y="5" width="2" height="3" fill="#1a1a1a">
+      <animate attributeName="height" values="3;3;0.3;3;3" keyTimes="0;0.9;0.93;0.96;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="14" y="5" width="2" height="3" fill="#1a1a1a">
+      <animate attributeName="height" values="3;3;0.3;3;3" keyTimes="0;0.9;0.93;0.96;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
