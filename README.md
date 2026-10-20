@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/theslasher5g/theslasher5g/main/assets/banner.svg" alt="theslasher5g – Cloud & Cyber Security" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=520&lines=Cloud+%26+Cyber+Security;Docker+%C2%B7+Linux+%C2%B7+Python;Hardening+everything+%F0%9F%94%92)](https://github.com/theslasher5g)
-
 <img src="https://raw.githubusercontent.com/theslasher5g/theslasher5g/main/assets/clawd.svg" alt="Pixel mascot" width="120" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=theslasher5g&style=flat-square)
