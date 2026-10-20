@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#064e3b"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#00ff9c" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="200" rx="12" fill="url(#bg)"/>
+  <rect width="900" height="200" rx="12" fill="url(#grid)"/>
+
+  <text x="450" y="95" text-anchor="middle" font-family="'Fira Code', Consolas, monospace"
+        font-size="44" font-weight="bold" fill="#ffffff">theslasher5g</text>
+
+  <g font-family="'Fira Code', Consolas, monospace" font-size="20" fill="#00ff9c" text-anchor="middle">
+    <text x="450" y="140" opacity="1">
+      Cloud &amp; Cyber Security
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.30;0.33;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="140" opacity="0">
+      Docker · Linux · Python
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.36;0.63;0.66;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="140" opacity="0">
+      Hardening everything
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.69;0.97;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
