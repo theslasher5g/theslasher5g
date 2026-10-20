@@ -27,7 +27,6 @@ print(f"Hi, I'm {Engineer.handle} – building and securing cloud infrastructure
 
 - 🔭 Currently working on: **devplat.ch**
 - 🛡️ Interested in: container security, Linux hardening, automation
-- 🌱 Learning: *(what are you learning right now?)*
 - 💬 Ask me about: Docker, Linux, Python scripting
 
 ---
